@@ -1,2 +1,2 @@
 # Python-args-kwargs
-Python file demonstrating args kwargs
+This is short demo of how Python handles arguments(args) and keyword arguments(kwargs)
